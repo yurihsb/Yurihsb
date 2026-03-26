@@ -1,8 +1,8 @@
 ## Oi, eu sou o Yuri! Estudante de Engenharia de Software (2024 - 2028) focado em desenvolvimento Backend e Full Stack. Sou um entusiasta de tecnologia que adora resolver problemas complexos, desde a arquitetura de uma API até a otimização de sistemas e hardware.
 
-🛠️ Tecnologias e FerramentasLinguagens: Java, Python, C++, PHP, SQL e HTML5.Backend: Spring Boot, PHP, Desenvolvimento de APIs REST e Arquitetura de Software.Frontend: Bootstrap e Desenvolvimento Responsivo.Banco de Dados: PostgreSQL e SQL.Outros: Git/GitHub, SEO e Manutenção de Hardware (Computadores, Mobile e Consoles).
+Tecnologias e FerramentasLinguagens: Java, Python, C++, PHP, SQL e HTML5.Backend: Spring Boot, PHP, Desenvolvimento de APIs REST e Arquitetura de Software.Frontend: Bootstrap e Desenvolvimento Responsivo.Banco de Dados: PostgreSQL e SQL.Outros: Git/GitHub, SEO e Manutenção de Hardware (Computadores, Mobile e Consoles).
 
-🚀 Projetos em DestaqueProject TuristandoSistema de Gestão de Frotas desenvolvido com Java e Spring Boot.Desenvolvimento de API REST para controle de despesas e consumo de veículos.Implementação de regras de negócio complexas e estruturação de endpoints.Persistência de dados integrada com banco de dados.MetaCashSistema de Gestão Financeira desenvolvido com PHP e PostgreSQL.Criação de dashboard interativo para controle de fluxo de caixa.Implementação de sistema seguro de autenticação de usuários.Manipulação avançada de dados em ambiente relacional.IdiomasInglês: Avançado.
+Projetos em DestaqueProject TuristandoSistema de Gestão de Frotas desenvolvido com Java e Spring Boot.Desenvolvimento de API REST para controle de despesas e consumo de veículos.Implementação de regras de negócio complexas e estruturação de endpoints.Persistência de dados integrada com banco de dados.MetaCashSistema de Gestão Financeira desenvolvido com PHP e PostgreSQL.Criação de dashboard interativo para controle de fluxo de caixa.Implementação de sistema seguro de autenticação de usuários.Manipulação avançada de dados em ambiente relacional.IdiomasInglês: Avançado.
 
 LinkedIn: [(https://www.linkedin.com/feed/)]
 E-mail: yurihsb03@gmail.com Portfólio/GitHub: yurihsb 
