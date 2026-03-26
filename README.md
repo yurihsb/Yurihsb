@@ -1,4 +1,4 @@
-## Oi, eu sou o Yuri! Estudante de Engenharia de Software (2024 - 2028) focado em desenvolvimento Backend e Full Stack. Sou um entusiasta de tecnologia que adora resolver problemas complexos, desde a arquitetura de uma API até a otimização de sistemas e hardware.
+## Estudante de Engenharia de Software (2024 - 2028) focado em desenvolvimento Backend e Full Stack. Sou um entusiasta de tecnologia que adora resolver problemas complexos, desde a arquitetura de uma API até a otimização de sistemas e hardware.
 
 Tecnologias e FerramentasLinguagens: Java, Python, C++, PHP, SQL e HTML5.Backend: Spring Boot, PHP, Desenvolvimento de APIs REST e Arquitetura de Software.Frontend: Bootstrap e Desenvolvimento Responsivo.Banco de Dados: PostgreSQL e SQL.Outros: Git/GitHub, SEO e Manutenção de Hardware (Computadores, Mobile e Consoles).
 
